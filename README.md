@@ -53,8 +53,9 @@ print('The cluster group for the ApplicantIncome 9200 and Loan Amount 110 is ',p
 
 ```
 ## Output:
-![output](/output.png)
+![output](/output%20(1).png)
 
+![output](/output3.png)
 
 
 
